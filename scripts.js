@@ -51,7 +51,6 @@ let post ={
     hasManyColors: ['grey'],
     };
 
-
 if (colors.length+hasManyColors.length >3) 
 {
     console.log(trueOrFalse)
